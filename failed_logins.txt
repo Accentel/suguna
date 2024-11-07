@@ -1,0 +1,8 @@
+Failed login attempt by: ACCOUNTS, IP: ::1, Time: 2023-11-24 12:15:04
+Failed login attempt by: MONITOR, IP: ::1, Time: 2023-11-24 16:46:20
+Failed login attempt by: nanimini, IP: ::1, Time: 2023-11-24 17:10:05
+Failed login attempt by: test, IP: ::1, Time: 2023-11-24 17:13:30
+Failed login attempt by: admin, IP: ::1, Time: 2023-11-25 12:38:52
+Failed login attempt by: admin, IP: ::1, Time: 2024-06-02 19:22:41
+Failed login attempt by: admin, IP: ::1, Time: 2024-06-02 19:22:53
+Failed login attempt by: admin, IP: ::1, Time: 2024-10-24 11:16:12
